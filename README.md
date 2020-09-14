@@ -3,7 +3,7 @@ A program that allows you to Rent DVDs from the Nour's Rental Store!!
 /*
  Title:DVDRental
  Description: manages a rental store DVD
- Date: July 8, 2020
+ Date: Aug 5, 2020
  Author: Nour Elgawish
  Copyright: 2020 Nour Elgawish
 */
